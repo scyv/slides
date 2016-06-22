@@ -62,7 +62,7 @@
 
             Reveal.addEventListener( 'slidechanged', function( event ) {
                 // event.previousSlide, event.currentSlide, event.indexh, event.indexv
-                socket.emit('message', {h: event.indexh, v: event.indexv});
+                socket.emit('message', {cmd: 'slideChange', h: event.indexh, v: event.indexv});
             });
 		</script>
 	</body>

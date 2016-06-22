@@ -26,9 +26,12 @@ io.on('connection', function (socket) {
     }
     console.log('client connected: ' + clientId);
     socket.on('message', function (msg) {
-        if (masterId === clientId) {
+        if (msg.cmd == 'slideChange' && masterId === clientId) {
             console.log(msg);
             io.emit('message', msg);
+        } else if (msg.cmd == 'master') {
+            masterId = clientId;
+            console.log('master is now ' + clientId);
         }
     });
     socket.on('disconnect', function () {
