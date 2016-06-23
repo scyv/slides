@@ -7,7 +7,7 @@
 		<title>Web Development Anno Dazumal</title>
 
 		<link rel="stylesheet" href="/revealjs/css/reveal.css">
-		<link rel="stylesheet" href="/revealjs/css/theme/black.css">
+		<link rel="stylesheet" href="/revealjs/css/theme/beige.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="/revealjs/lib/css/zenburn.css">
@@ -17,12 +17,11 @@
 			var link = document.createElement( 'link' );
 			link.rel = 'stylesheet';
 			link.type = 'text/css';
-			link.href = window.location.search.match( print-pdf/gi ) ? '/revealjs/css/print/pdf.css' : '/revealjs/css/print/paper.css';
+			link.href = window.location.search.match( 'print-pdf/gi' ) ? '/revealjs/css/print/pdf.css' : '/revealjs/css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
 
         <script src="/socket.io/socket.io.js"></script>
-        <script src="/jquery/jquery.min.js"></script>
         <script src="/revealjs/js/reveal.js"></script>
 	</head>
 	<body>
@@ -30,7 +29,15 @@
 			<div class="slides">
 				<section>Slide 1</section>
 				<section>
-					<section>Slide 2</section>
+					<section data-markdown>
+						<script type="text/template">
+							## Page title
+
+							* A paragraph with some text and a [link](http://hakim.se).
+							* bla
+							* blubb
+						</script>
+					</section>
 					<section>Slide 3</section>
 				</section>
 			</div>
@@ -53,17 +60,9 @@
 				]
 			});
 
-            var socket = io();
-
-            socket.on('message', function(msg){
-               console.log(msg);
-               Reveal.slide(msg.h, msg.v, 0);
-            });
-
-            Reveal.addEventListener( 'slidechanged', function( event ) {
-                // event.previousSlide, event.currentSlide, event.indexh, event.indexv
-                socket.emit('message', {cmd: 'slideChange', h: event.indexh, v: event.indexv});
-            });
 		</script>
+
+		<script src="/js/main.js"></script>
+
 	</body>
 </html>
