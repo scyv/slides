@@ -31,7 +31,7 @@ http.listen(config.port, function() {
 
 var masterId = null;
 
-var newMaster = function (newMasterId) {
+var newMaster = function(newMasterId) {
     masterId = newMasterId;
     console.log('master is now ' + masterId);
     io.emit('masterChanged', masterId);
