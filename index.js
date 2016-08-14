@@ -4,11 +4,6 @@ var http = require('http').Server(app);
 var io = require('socket.io')(http);
 var config = require('./config.js');
 
-var bodyParser = require('body-parser')
-app.use(bodyParser.urlencoded({ // to support URL-encoded bodies
-    extended: true
-}));
-
 app.use('/js', express.static(__dirname + '/js/'));
 app.use('/jquery', express.static(__dirname + '/node_modules/jquery/dist/'));
 app.use('/revealjs', express.static(__dirname + '/node_modules/reveal.js/'));
