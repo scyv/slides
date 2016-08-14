@@ -1,30 +1,33 @@
 <!doctype html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>Remote Reveal</title>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-        <script src="/socket.io/socket.io.js"></script>
-        <script src="/revealjs/js/reveal.js"></script>
-		<script src="/jquery/jquery.min.js"></script>
+    <title>Remote Reveal</title>
 
-	</head>
-	<body>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/revealjs/js/reveal.js"></script>
+    <script src="/jquery/jquery.min.js"></script>
+</head>
 
-        <button id="left">Left</button>
-        <button id="right">Right</button>
-        <button id="up">Up</button>
-        <button id="down">Down</button>
+<body>
 
+    <button id="left">Left</button>
+    <button id="right">Right</button>
+    <button id="up">Up</button>
+    <button id="down">Down</button>
 
-		<script>
-            var socket = io();
-            $('button').on('click', function() {
-                socket.emit('message', {cmd: 'remote', direction: this.id});
+    <script>
+        var socket = io();
+        $('button').on('click', function() {
+            socket.emit('message', {
+                cmd: 'remote',
+                direction: this.id
             });
+        });
+    </script>
+</body>
 
-        </script>
-	</body>
 </html>

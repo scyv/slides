@@ -1,10 +1,16 @@
 {
-  "name": "revealr",
-  "version": "0.0.1",
-  "description": "Simple server component used for for synchronizing the presentation to connected clients.",
-  "dependencies": {
-    "express": "^4.14.0",
-    "jquery": "^3.0.0",
-    "reveal.js": "git+https://github.com/hakimel/reveal.js.git"
-  }
+    "name": "slides",
+    "version": "0.0.1",
+    "description": "Simple server component used for for synchronizing the presentation to connected clients.",
+    "bugs": {
+        "url": "https://github.com/scyv/slides/issues"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.14.0",
+        "jquery": "^3.0.0",
+        "reveal.js": "git+https://github.com/hakimel/reveal.js.git"
+    }
 }
