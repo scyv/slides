@@ -13,18 +13,25 @@
 </head>
 
 <body>
-
-    <button id="left">Left</button>
-    <button id="right">Right</button>
-    <button id="up">Up</button>
-    <button id="down">Down</button>
-
+    <p><button id="master">Make master</button></p>
+    <nav>
+        <button id="left">Left</button>
+        <button id="right">Right</button>
+        <button id="up">Up</button>
+        <button id="down">Down</button>
+    </nav>
     <script>
         var socket = io();
-        $('button').on('click', function() {
+        $('nav button').on('click', function() {
             socket.emit('message', {
                 cmd: 'remote',
                 direction: this.id
+            });
+        });
+        $('button#master').on('click', function() {
+            socket.emit('message', {
+                cmd: 'master',
+                masterPassword: prompt('Masterpassword:')
             });
         });
     </script>
