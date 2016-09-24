@@ -13,7 +13,7 @@ app.get('/', function(req, res) {
 });
 
 app.get('/slides/:slides', function(req, res) {
-    res.sendFile(__dirname + '/' + req.params.slides + '/index.html');
+    res.sendFile(__dirname + '/slides/' + req.params.slides + '/index.html');
 });
 
 app.get('/remote/', function(req, res) {
