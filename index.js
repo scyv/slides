@@ -12,8 +12,9 @@ app.get('/', function(req, res) {
     res.sendFile(__dirname + '/index.html');
 });
 
-app.get('/slides/:slides', function(req, res) {
-    res.sendFile(__dirname + '/slides/' + req.params.slides + '/index.html');
+
+app.get('/slides/:slides/:file', function(req, res) {
+    res.sendFile(__dirname + '/slides/' + req.params.slides + '/' + req.params.file);
 });
 
 app.get('/remote/', function(req, res) {

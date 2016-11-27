@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640px"
+   height="480px"
+   id="svg4261"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Guerre_des_navigateurs.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4263">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 240 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="640 : 240 : 1"
+       inkscape:persp3d-origin="320 : 160 : 1"
+       id="perspective4269" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.191254"
+     inkscape:cx="323.70849"
+     inkscape:cy="183.62968"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="880"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2482" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4266">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="g4258"
+       transform="matrix(2.36554, 0, 0, 3.88605, 47.8221, 55.1155)">
+      <path
+         id="path4262"
+         style="fill: rgb(255, 255, 153); fill-opacity: 1; stroke: none;"
+         d="M -4.7531423e-16,-6.605827e-15 L 20,-6.605827e-15 L 40,-6.605827e-15 L 60,-6.605827e-15 L 80,-6.605827e-15 L 100,-6.605827e-15 L 120,-6.605827e-15 L 140,-6.605827e-15 L 160,-6.605827e-15 L 180,-6.605827e-15 L 200,-6.605827e-15 L 246.10757,0.26770946 L 246.10757,99.952346 L -4.7531423e-16,100 L -4.7531423e-16,-6.605827e-15 z"
+         sodipodi:nodetypes="ccccccccccccccc" />
+    </g>
+    <path
+       d="M 47.582725,118.26384 L 92.141007,93.97603 L 136.69931,74.545779 L 181.25759,64.830654 L 225.81592,59.973091 L 270.3742,59.001579 L 314.93248,59.973091 L 359.4908,64.830654 L 404.04908,68.249064 L 448.60737,68.912387 L 493.16568,77.777818"
+       style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.895331; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+       id="path4266" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccc"
+       d="M 47.582725,118.26384 L 92.141007,93.97603 L 136.69931,74.545779 L 181.25759,64.830654 L 225.81592,59.973091 L 270.3742,59.001579 L 314.93248,59.973091 L 359.4908,64.830654 L 404.04908,68.249064 L 448.60737,68.912387 L 493.16568,77.777818 L 536.34,74.375207 L 581.60886,80.526061 L 630.50959,90 L 630,443.07512 L 47.582725,443.72051 L 47.582725,118.26384 z"
+       style="fill: rgb(255, 51, 51); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-width: 0.895331; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+       id="path4268" />
+    <path
+       d="M 47.582725,118.26384 L 92.141007,93.97603 L 136.69931,74.545779 L 181.25759,64.830654 L 225.81592,59.973091 L 270.3742,59.001579 L 314.93248,63.859138 L 359.4908,72.602754 L 404.04908,83.791718"
+       style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.895331; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+       id="path4272"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       d="M 47.582725,118.26384 L 92.141007,93.97603 L 136.69931,74.545779 L 181.25759,64.830654 L 225.81592,59.973091 L 270.3742,59.001579 L 314.93248,63.859138 L 359.4908,72.602754 L 404.04908,83.791718 L 404.40825,443.33234 L 47.582725,443.72051 L 47.582725,118.26384 z"
+       style="fill: rgb(25, 138, 138); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-width: 0.447665; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+       id="path4274"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       d="M 47.582725,429.14783 L 92.141007,375.71463 L 136.69931,307.70877 L 181.25759,200.84239 L 225.81592,118.26384 L 270.3742,93.97603 L 314.93248,73.574267 L 359.4908,75.517298 L 404.04908,83.791718"
+       style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.895331; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+       id="path4278"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       d="M 47.582725,429.14783 L 92.141007,375.71463 L 136.69931,307.70877 L 181.25759,200.84239 L 225.81592,118.26384 L 270.3742,93.97603 L 314.93248,73.574267 L 359.4908,75.517298 L 404.04908,83.791718 L 448.607,105.989 L 494.699,121.999 L 540,152.16499 L 585,173.46335 L 630,195.5933 L 630,443.90954 L 47.582725,443.72051 L 47.582725,429.14783 z"
+       style="fill: rgb(0, 71, 255); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-width: 0.537198; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
+       id="path4280"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <rect
+       id="rect12257"
+       style="overflow: visible; marker: none; fill: none; fill-opacity: 1; fill-rule: nonzero; stroke: rgb(0, 0, 0); stroke-width: 0.983363; stroke-linecap: square; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+       y="55.643383"
+       x="47.625141"
+       height="388.1832"
+       width="582.98517" />
+    <g
+       id="g1962"
+       transform="matrix(0.902493, 0, 0, 1.09545, 46.9213, -41.3349)">
+      <rect
+         id="rect13354"
+         style="overflow: visible; marker: none; fill: rgb(255, 255, 255); fill-opacity: 1; fill-rule: nonzero; stroke: rgb(0, 0, 0); stroke-width: 0.997107; stroke-linecap: square; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+         y="337.49857"
+         x="427.49857"
+         height="85.854744"
+         width="204.08623" />
+      <rect
+         id="rect14242"
+         style="overflow: visible; marker: none; fill: rgb(0, 71, 255); fill-opacity: 1; fill-rule: nonzero; stroke: rgb(0, 0, 0); stroke-width: 0.976609; stroke-linecap: square; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+         y="402.48831"
+         x="431.48831"
+         height="14.023391"
+         width="13.023391" />
+      <rect
+         id="rect15129"
+         style="overflow: visible; marker: none; fill: rgb(25, 138, 138); fill-opacity: 1; fill-rule: nonzero; stroke: rgb(0, 0, 0); stroke-width: 0.976609; stroke-linecap: square; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+         y="382.48831"
+         x="431.48831"
+         height="14.023391"
+         width="13.023391" />
+      <rect
+         id="rect15132"
+         style="overflow: visible; marker: none; fill: rgb(255, 51, 51); fill-opacity: 1; fill-rule: nonzero; stroke: rgb(0, 0, 0); stroke-width: 0.976609; stroke-linecap: square; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+         y="363.48831"
+         x="431.48831"
+         height="14.023391"
+         width="13.023391" />
+      <rect
+         id="rect15134"
+         style="overflow: visible; marker: none; fill: rgb(255, 255, 153); fill-opacity: 1; fill-rule: nonzero; stroke: rgb(0, 0, 0); stroke-width: 0.976609; stroke-linecap: square; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-dashoffset: 0pt; stroke-opacity: 1; visibility: visible; display: inline;"
+         y="343.48831"
+         x="431.48831"
+         height="14.023391"
+         width="13.023391" />
+      <text
+         sodipodi:linespacing="100%"
+         xml:space="preserve"
+         id="text16021"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Arial"
+         y="355.40302"
+         x="447.48099"><tspan
+           id="tspan16023"
+           y="355.40302"
+           x="447.48099">Others (Opera, Safari, PSP…)</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         xml:space="preserve"
+         id="text16029"
+         style="font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+         y="375.557"
+         x="447.481"><tspan
+           id="tspan16031"
+           y="375.557"
+           x="447.481">Firefox, Mozilla, Camino, etc.</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         xml:space="preserve"
+         id="text16033"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Arial"
+         y="394.84698"
+         x="447.48099"><tspan
+           id="tspan16035"
+           y="394.84698"
+           x="447.48099">Netscape classic</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         xml:space="preserve"
+         id="text16037"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Arial"
+         y="415.289"
+         x="447.48099"><tspan
+           id="tspan16039"
+           y="415.289"
+           x="447.48099">Internet Explorer for Windows</tspan></text>
+    </g>
+    <path
+       id="path16958"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       d="M 47.167068,443.46304 L 47.167068,448.54191 L 47.998379,448.54191 L 47.998379,443.46304 L 47.167068,443.46304 z" />
+    <path
+       id="path17849"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 91.808498,443.46304 L 91.808498,448.54191 L 92.639806,448.54191 L 92.639806,443.46304 L 91.808498,443.46304 z" />
+    <path
+       id="path17851"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 136.44993,443.46304 L 136.44993,448.54191 L 137.28124,448.54191 L 137.28124,443.46304 L 136.44993,443.46304 z" />
+    <path
+       id="path17853"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 181.09134,443.46304 L 181.09134,448.54191 L 181.92266,448.54191 L 181.92266,443.46304 L 181.09134,443.46304 z" />
+    <path
+       id="path17855"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 225.73277,443.46304 L 225.73277,448.54191 L 226.56407,448.54191 L 226.56407,443.46304 L 225.73277,443.46304 z" />
+    <path
+       id="path17857"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 270.3742,443.46304 L 270.3742,448.54191 L 271.2055,448.54191 L 271.2055,443.46304 L 270.3742,443.46304 z" />
+    <path
+       id="path17861"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 315.01562,443.46304 L 315.01562,448.54191 L 315.84693,448.54191 L 315.84693,443.46304 L 315.01562,443.46304 z" />
+    <path
+       id="path17863"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 359.65703,443.46304 L 359.65703,448.54191 L 360.48837,448.54191 L 360.48837,443.46304 L 359.65703,443.46304 z" />
+    <path
+       id="path17865"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 404.29846,443.46304 L 404.29846,448.54191 L 405.12978,448.54191 L 405.12978,443.46304 L 404.29846,443.46304 z" />
+    <path
+       id="path17867"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 448.93989,443.46304 L 448.93989,448.54191 L 449.7712,448.54191 L 449.7712,443.46304 L 448.93989,443.46304 z" />
+    <path
+       id="path17869"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 494.75002,443.46304 L 494.75002,448.54191 L 495.58133,448.54191 L 495.58133,443.46304 L 494.75002,443.46304 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path18756"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
+       d="M 43.426167,442.75623 L 43.426167,443.72051 L 47.582725,443.72051 L 47.582725,442.75623 L 43.426167,442.75623 z" />
+    <path
+       id="path19647"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 43.426167,403.22074 L 43.426167,404.18501 L 47.582725,404.18501 L 47.582725,403.22074 L 43.426167,403.22074 z" />
+    <path
+       id="path19649"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 43.426167,364.64952 L 43.426167,365.61381 L 47.582725,365.61381 L 47.582725,364.64952 L 43.426167,364.64952 z" />
+    <path
+       id="path19651"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 43.426167,326.0783 L 43.426167,327.04258 L 47.582725,327.04258 L 47.582725,326.0783 L 43.426167,326.0783 z" />
+    <path
+       id="path19653"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 43.426167,287.50709 L 43.426167,288.47137 L 47.582725,288.47137 L 47.582725,287.50709 L 43.426167,287.50709 z" />
+    <path
+       id="path19657"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 43.426167,210.36467 L 43.426167,211.32894 L 47.582725,211.32894 L 47.582725,210.36467 L 43.426167,210.36467 z" />
+    <path
+       id="path19661"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 43.426167,248.93589 L 43.426167,249.90017 L 47.582725,249.90017 L 47.582725,248.93589 L 43.426167,248.93589 z" />
+    <path
+       id="path19665"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 43.426167,171.79345 L 43.426167,172.75773 L 47.582725,172.75773 L 47.582725,171.79345 L 43.426167,171.79345 z" />
+    <path
+       id="path19673"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 43.426167,133.22224 L 43.426167,134.18652 L 47.582725,134.18652 L 47.582725,133.22224 L 43.426167,133.22224 z" />
+    <path
+       id="path19681"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 43.426167,94.651018 L 43.426167,95.615305 L 47.582725,95.615305 L 47.582725,94.651018 L 43.426167,94.651018 z" />
+    <path
+       id="path19683"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 43.426167,55.115529 L 43.426167,56.07981 L 47.582725,56.07981 L 47.582725,55.115529 L 43.426167,55.115529 z" />
+    <text
+       transform="scale(0.9284967,1.0770097)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text19685"
+       style="font-size:24.52350807px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       y="30.794422"
+       x="284.10284"><tspan
+         id="tspan19687"
+         y="30.794422"
+         x="284.10284">Browser Wars</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20574"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; font-family: Arial;"
+       y="416.195"
+       x="20.9904"><tspan
+         id="tspan20576"
+         y="416.195"
+         x="20.9904">0%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20578"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="380.382"
+       x="12.1727"><tspan
+         id="tspan20580"
+         y="380.382"
+         x="12.1727">10%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20582"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="344.57"
+       x="12.1727"><tspan
+         id="tspan20584"
+         y="344.57"
+         x="12.1727">20%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20586"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="308.759"
+       x="12.2036"><tspan
+         id="tspan20588"
+         y="308.759"
+         x="12.2036">30%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20590"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="272.947"
+       x="12.1727"><tspan
+         id="tspan20592"
+         y="272.947"
+         x="12.1727">40%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20594"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="236.81"
+       x="12.1727"><tspan
+         id="tspan20596"
+         y="236.81"
+         x="12.1727">50%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20598"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="200.998"
+       x="12.1727"><tspan
+         id="tspan20600"
+         y="200.998"
+         x="12.1727">60%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20602"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="165.186"
+       x="12.2036"><tspan
+         id="tspan20604"
+         y="165.186"
+         x="12.2036">70%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20606"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="129.375"
+       x="12.1418"><tspan
+         id="tspan20608"
+         y="129.375"
+         x="12.1418">80%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20610"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="92.912"
+       x="12.1727"><tspan
+         id="tspan20612"
+         y="92.912"
+         x="12.1727">90%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20614"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="57.1003"
+       x="3.35504"><tspan
+         id="tspan20616"
+         y="57.1003"
+         x="3.35504">100%</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20620"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="32.8898"><tspan
+         id="tspan20622"
+         y="434.973"
+         x="32.8898">1996</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20624"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="81.6936"><tspan
+         id="tspan20626"
+         y="434.973"
+         x="81.6936">1997</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20628"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="129.807"><tspan
+         id="tspan20630"
+         y="434.973"
+         x="129.807">1998</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20632"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="178.611"><tspan
+         id="tspan20634"
+         y="434.973"
+         x="178.611">1999</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20636"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="226.954"><tspan
+         id="tspan20638"
+         y="434.973"
+         x="226.954">2000</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20640"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="274.376"><tspan
+         id="tspan20642"
+         y="434.973"
+         x="274.376">2001</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20644"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="322.259"><tspan
+         id="tspan20646"
+         y="434.973"
+         x="322.259">2002</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20648"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="369.681"><tspan
+         id="tspan20650"
+         y="434.973"
+         x="369.681">2003</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20652"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="418.486"><tspan
+         id="tspan20654"
+         y="434.973"
+         x="418.486">2004</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20656"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="466.368"><tspan
+         id="tspan20658"
+         y="434.973"
+         x="466.368">2005</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text20660"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="513.791"><tspan
+         id="tspan20662"
+         y="434.973"
+         x="513.791">2006</tspan></text>
+    <path
+       id="path2351"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 538.86563,443.46311 L 538.86563,448.542 L 539.69695,448.542 L 539.69695,443.46311 L 538.86563,443.46311 z" />
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text2353"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="561.304"><tspan
+         id="tspan2355"
+         y="434.973"
+         x="561.304">2007</tspan></text>
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text3352"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="607.621"><tspan
+         id="tspan3354"
+         y="434.973"
+         x="607.621">2008</tspan></text>
+    <path
+       id="path4128"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 584.58468,443.46312 L 584.58468,448.542 L 585.41598,448.542 L 585.41598,443.46312 L 584.58468,443.46312 z" />
+    <path
+       id="path2476"
+       style="fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: evenodd; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
+       d="M 630.64108,445.46311 L 630.64108,450.542 L 631.4724,450.542 L 631.4724,445.46311 L 630.64108,445.46311 z" />
+    <text
+       transform="scale(0.928497, 1.07701)"
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       id="text2478"
+       style="font-size: 15.8408px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: 100%; text-anchor: start; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1pt; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline; font-family: Arial;"
+       y="434.973"
+       x="652.132"><tspan
+         id="tspan2480"
+         y="434.973"
+         x="652.132">2009</tspan></text>
+  </g>
+</svg>
