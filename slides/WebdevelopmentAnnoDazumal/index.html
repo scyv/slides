@@ -7,7 +7,8 @@
 		<title>Web Development Anno Dazumal</title>
 
 		<link rel="stylesheet" href="/revealjs/css/reveal.css">
-		<link rel="stylesheet" href="/revealjs/css/theme/beige.css">
+<!--		<link rel="stylesheet" href="/revealjs/css/theme/beige.css">-->
+		<link rel="stylesheet" href="/revealjs/css/theme/moon.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="/revealjs/lib/css/zenburn.css">
@@ -27,18 +28,152 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>
+				<section data-markdown>
+					<script type="text/template">
+						# Eine kleine Geschichte der Web-Entwicklung
+					</script>
+				</section>
+				<section data-transition="zoom">
+					<section><h1>Hyper Text Markup Language</h1></section>
 					<section data-markdown>
 						<script type="text/template">
-							## Page title
-
-							* A paragraph with some text and a [link](http://hakim.se).
-							* bla
-							* blubb
+							* HTTP?
+							* Statische Inhalte
+							* Hyperlinks
+							```
+							 <html>jojo</html>
+							```
 						</script>
 					</section>
-					<section>Slide 3</section>
+				</section>
+				<section data-transition="zoom">
+					<section><h1>Wie, Du hast noch keine Homepage?</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							* Zeit der sog. "dot-com"-Blase
+							  * Viele Firmen stürzen sich auf die neue Technologie
+							  * Viele Firmen sind hoffnungslos überbewertet
+							* Eigene Homepages
+							  * Webspace und Rootserver für den privatgebrauch werden immer erschwinglicher
+							  *
+							* CGI/Perl
+							* PHP
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>Darfs etwas dynamischer sein?</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							* Java Applets
+							  * "Normale" Java-Anwendungen im Browser
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>Die Büchse der Panorra</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							# JavaScript
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>Asynchronous JavaScript with XML</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							# AJAX
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>Spielen im Browser?</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							# DHTML
+
+							* SVG??
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>Flash</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							* Dynamische Inhalte
+							* Komplexe grafische Effekte
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>"Browserkrieg"</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							* Browserhersteller kämpfen um Marktanteile
+							  * Internet Explorer
+							  * Netscape Navigator
+							  * Opera
+							  * Google Chrome
+							  * Firefox
+							* Leider wird der HTML Standard (insbesondere CSS) von unterschiedlichen Browsern unterschiedlich interpretiert
+							* Folge: Browserweichen und Spezialisierung
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>Tricksereien</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							* Google Page Rank
+							* SEO
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>HTML5/CSS3</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							* Websockets
+							* Dynamische Inhalte
+							* Komplexe grafische Effekte
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>Cross Plattform</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							*
+							* Animationen
+							* Canvas
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>Offline</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							* Mit HTML5 kommt die offizielle Spezifikation von offline fähigen Webseiten
+							* MANIFEST
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>What's Next?</h1></section>
+					<section data-markdown>
+						<script type="text/template">
+							* Web Components
+							* Service Workers
+							  * Dienste, die ständig im Hintergrund laufen und z.B. jederzeit Notifications senden können
+							* Alternativen zu Javascript?
+						</script>
+					</section>
+				</section>
+				<section data-markdown section data-transition="zoom">
+					<script type="text/template">
+						# Vielen Dank für die Aufmerksamkeit!
+						### Noch Fragen?
+					</script>
 				</section>
 			</div>
 		</div>
@@ -50,6 +185,7 @@
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
 				history: true,
+				progress: true,
 
 				// More info https://github.com/hakimel/reveal.js#dependencies
 				dependencies: [
@@ -59,7 +195,7 @@
 					{ src: '/revealjs/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
 				]
 			});
-
+			Reveal.configure({ slideNumber: 'c/t' });
 		</script>
 
 		<script src="/js/main.js"></script>
