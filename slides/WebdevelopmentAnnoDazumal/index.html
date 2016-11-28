@@ -23,14 +23,6 @@
 		</script>
 
         <script src="/socket.io/socket.io.js"></script>
-        <script src="/revealjs/js/reveal.js"></script>
-
-		<style>
-			.time {
-				position: absolute;
-				top: 0;
-			}
-		</style>
 	</head>
 	<body>
 		<div class="reveal">
@@ -41,13 +33,14 @@
 						<script type="text/template">
 							# Agenda
 
-							* HTML/CSS
-							* Homepages
-							* DHTML
-							* JavaScript
-							* XMLHttpRequest/AJAX
-							* Flash
-							* 
+							* 1989 - HTML/CSS
+							* 199x - Homepages
+							* 1995 - Dynamisches Web
+							* 1995 - Browserkrieg  
+							* 2003 - Web 2.0
+							* 2009 - Cross Plattform
+							* 2014 - HTML5/CSS3
+							* 2016 - Was kommt dann?  
 						</script>
 					</section>
 				</section>
@@ -56,107 +49,182 @@
 					<section data-markdown>
 						<script type="text/template">
 							Tim Berners-Lee (1989):
-								<blockquote>"The WorldWideWeb (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to a large universe of documents."</blockquote>
-						        
-							* Idee des WorldWideWeb: Austausch von Forschungsergebnissen auf möglichst einfache Art und Weise.
+							<blockquote>"The WorldWideWeb (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to a large universe of documents."</blockquote>
+
+							<aside class="notes">  
+								<p>Idee ist am CERN entstanden</p>
+								<p>Idee des WorldWideWeb: Austausch von Forschungsergebnissen auf möglichst einfache Art und Weise.</p>
+							</aside>
 						</script>
 					</section>
 					<section data-markdown>
 						<script type="text/template">
 							## HTML/CSS 1992-1995:
-							* Definition der Tags und Basisstruktur
+							* Definition der ersten Tags und Basisstruktur
 							* W3C übernimmt offizielle Standardisierung
+
+```
+<TITLE>User Guide for the WWW Line Mode Browser</TITLE>
+<NEXTID 9>
+<H1>WWW Line Mode Browser</H1>The World-Wide Web line-mode
+browser allows you to find information by following references
+and/or by using keywords.<P>
+References are numbers in [brackets] after particular phrases.
+[...]<P>Some documents are indexes. These contain little text,
+but allow you to search for information with keywords.[...]
+You can omit the "f" if the first keyword doesn't conflict
+with <A NAME=3 HREF=Commands.html>existing commands</A> .<P>
+<ADDRESS><A NAME=0 HREF=http://info.cern.ch/hypertext/TBL_Disclaimer.html>Tim BL</A></ADDRESS>
+```
+<p style="font-size: 50%">Quellcode von http://info.cern.ch/hypertext/WWW/LineMode/Defaults/QuickGuide.html</p>
+
 						</script>
 					</section>
 				</section>
 				<section data-transition="zoom">
-					<section><h1>Wie, Du hast noch keine Homepage?</h1></section>
+					<section><h1>Wie, Du hast noch keine Homepage?</h1><span>90er</span></section>
 					<section data-markdown>
 						<script type="text/template">
-							* Zeit der sog. "Dotcom-Blase""
+							<img src="uc1.gif" width="10%" style="border:0;background:none;box-shadow:none;" />
+							<img src="uc2.gif" width="10%" style="border:0;background:none;box-shadow:none;" />
+							<img src="serveimage.gif" width="10%" style="border:0;background:none;box-shadow:none;" />
 							* Eigene Homepages
-							  * Webspace und Rootserver für den privatgebrauch werden immer erschwinglicher
-							  * Animierte Gifs
-							* CGI/Perl
-							* PHP
+							  * Webspace und Rootserver für den privatgebrauch werden immer erschwinglicher (LAMP!)
+							* Webseiten werden meist mit CGI/Perl und/oder PHP programmiert.
 						</script>
 					</section>
 				</section>
 				<section section data-transition="zoom">
-					<section><h1>Darfs etwas dynamischer sein?</h1></section>
+					<section><h1>Darfs etwas dynamischer sein?</h1><span>1995</span></section>
 					<section data-markdown>
 						<script type="text/template">
-							* DHTML
-							* JavaScript
-							* JScript
-							* Java Applets
-							  * "Normale" Java-Anwendungen im Browser
-						</script>
-					</section>
-				</section>
-				<section section data-transition="zoom">
-					<section><h1>Asynchronous JavaScript with XML</h1></section>
-					<section data-markdown>
-						<script type="text/template">
-							# AJAX
-						</script>
-					</section>
-				</section>
-				<section section data-transition="zoom">
-					<section><h1>Flash</h1></section>
-					<section data-markdown>
-						<script type="text/template">
+							* Neue Player
+							  * DHTML
+							  * JavaScript
+							  * JScript
+							  * Java Applets
+							  * Flash
 							* Dynamische Inhalte
 							* Komplexe grafische Effekte
 						</script>
 					</section>
 				</section>
 				<section section data-transition="zoom">
-					<section><h1>"Browserkrieg"</h1><span>1994 - Heute</span></section>
+					<section><h1>"Browserkrieg"</h1><span>1995 - Heute</span></section>
 					<section data-markdown>
 						<script type="text/template">
-							<img src="Browser_Wars_(en).svg" width="50%" />
+							<img src="Browser_Wars_(en).png" width="50%" />
 							* Browserhersteller kämpfen um Marktanteile
 							* Um sich von der Masse abzuheben, erfinden einzelne Hersteller neue nicht im Standard vorgesehene Funktionen
 							* Folge: Browserweichen und Spezialisierung
 						</script>
 					</section>
-				</section>
-				<section section data-transition="zoom">
-					<section><h1>Tricksereien</h1></section>
 					<section data-markdown>
 						<script type="text/template">
-							* Google Page Rank
-							* SEO
+						```
+						function getWidth(id){
+							var element = getElement(id);
+							if(typeof element.offsetWidth != 'undefined'){
+								return parseInt(element.offsetWidth);
+							}
+							else if(typeof element.style != 'undefined' &&
+								typeof element.style.pixelWidth != 'undefined'){
+								return parseInt(getStyle(id).pixelWidth);
+							}
+							else if(typeof element != 'undefined' &&
+								typeof element.document.width != 'undefined'){
+								return element.document.width;
+							}
+						}
+						```
+						</script>
+					</section>
+					<section data-markdown>
+						<script type="text/template">
+						```
+						function getXMLHttpRequest(){
+							if (window.XMLHttpRequest) {
+								return new XMLHttpRequest(); // firefox, opera, safari, ...
+							} else {
+								if (window.ActiveXObject) {
+									try { // new IE
+										return new ActiveXObject("Msxml2.XMLHTTP");
+									} catch (e) {
+										try { // old IE
+											return new ActiveXObject("Microsoft.XMLHTTP");
+										} catch (e) { }
+									}
+								}
+							}
+							return null;
+						}
+						```
 						</script>
 					</section>
 				</section>
 				<section section data-transition="zoom">
-					<section><h1>HTML5/CSS3</h1></section>
+					<section><h1>Web 2.0</h1><span>2003</span></section>
+					<section>
+							<img src="Web20en.png" width="100%" />
+							<aside class="notes">
+								<p>Blogs, RSS, Ajax, Webservices</p>
+								<p>SEO, Google Page Rank</p>
+								<p>Google Mail, Maps, ...</p>
+								<p>Facebook</p>
+								<p>jQuery</p>
+							</aside>
+					</section>
+					<section data-markdown>
+						<script type="text/template">
+						Vorher:
+						```
+						function getElement(id){
+							var obj = null;
+							var doc = document;
+							if (!(obj = doc[id]) && doc.all) {
+								obj = doc.all[id];
+							}
+							for (var i = 0; !obj && doc.layers && i < doc.layers.length; i++) {
+								obj = this.find_obj(id, doc.layers[i].document);
+							}
+							if (!obj && doc.getElementById) {
+								obj = doc.getElementById(id);
+							}
+							return obj;
+						}
+						getElement("myId").innerHTML = "Hallali";
+						```
+						Nachher (JQuery):
+						```
+						$('#myId').html("Hallali");
+						```
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>Cross Plattform</h1><span>2009</span></section>
+					<section data-markdown>
+						<script type="text/template">
+							* NodeJS
+							  * Javascript auf Serverseite
+							* PhoneGap/Cordova
+							  * Javascript, HTML und CSS auf mobilen Endgeräten
+							
+							=> Explosionartige Ausbreitung von Javascript
+						</script>
+					</section>
+				</section>
+				<section section data-transition="zoom">
+					<section><h1>HTML5/CSS3</h1><span>2014</span></section>
 					<section data-markdown>
 						<script type="text/template">
 							* Websockets
-							* Dynamische Inhalte
-							* Komplexe grafische Effekte
-						</script>
-					</section>
-				</section>
-				<section section data-transition="zoom">
-					<section><h1>Cross Plattform</h1></section>
-					<section data-markdown>
-						<script type="text/template">
-							*
-							* Animationen
-							* Canvas
-						</script>
-					</section>
-				</section>
-				<section section data-transition="zoom">
-					<section><h1>Offline</h1></section>
-					<section data-markdown>
-						<script type="text/template">
-							* Mit HTML5 kommt die offizielle Spezifikation von offline fähigen Webseiten
-							* MANIFEST
+							* Offline
+							* WebRTC
+							* CSS
+							  * flex-Layout
+							  * Animationen
+							* etc.
 						</script>
 					</section>
 				</section>
@@ -164,10 +232,14 @@
 					<section><h1>What's Next?</h1></section>
 					<section data-markdown>
 						<script type="text/template">
+							* JavaScript Desktop Applications (z.B. electron.io, React Native)
 							* Web Components
 							* Service Workers
-							  * Dienste, die ständig im Hintergrund laufen und z.B. jederzeit Notifications senden können
-							* Alternativen zu Javascript?
+							* Alternativen zu JavaScript
+							  * Typescript
+							  * Google Dart / Flutter
+							  * WebAssembly
+							  * und viele andere: CoffeeScript, (Babel,) ELM, Haxe, GWT, ...
 						</script>
 					</section>
 				</section>
